@@ -10,7 +10,7 @@ afluencia_diaria_red_transporte_pasajeros_rtp_desglosado_03_2026.csv — Afluenc
 
 diccionario-afluencia-desglosada-rtp.csv — Diccionario de datos para el dataset de afluencia RTP
 
-EQUIPO 4
+EQUIPO 5
 INTEGRANTES:
 - CARRANZA MARTÍNEZ MAGALI 22161018 
 - CUEVAS ESTÉVEZ MARCOS GABRIEL 21160618 
