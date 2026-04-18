@@ -9,3 +9,12 @@ urgencias_uso_sustancias.csv — Urgencias médicas relacionadas con consumo de 
 afluencia_diaria_red_transporte_pasajeros_rtp_desglosado_03_2026.csv — Afluencia diaria de pasajeros en la Red de Transporte de Pasajeros (RTP), marzo 2026 SEMOVI
 
 diccionario-afluencia-desglosada-rtp.csv — Diccionario de datos para el dataset de afluencia RTP
+
+EQUIPO 4
+INTEGRANTES:
+CARRANZA MARTÍNEZ MAGALI 22161018 
+CUEVAS ESTÉVEZ MARCOS GABRIEL 21160618 
+DÍAZ CRISTÓBAL ZAID 22161047 
+GARCÍA LEYVA JESUS 20161206 
+GARCIA SANTIAGO EMILIO GABRIEL 21160643 
+GÓMEZ LÓPEZ SARAÍ 21160651 
